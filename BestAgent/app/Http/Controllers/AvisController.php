@@ -8,6 +8,6 @@ class AvisController extends Controller
 {
 	public function index(){
 		//inserer co base de donnée pour fetch les dernieravis + info agences .
-		return view('home')
+		return view('index');
 	}
 }
