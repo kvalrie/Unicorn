@@ -19,13 +19,13 @@
 
 
 @include('layouts.nav')
-
+<div class="main_container">
 
 
  @yield('content')
 
  @include('layouts.footer')
 
-
+</div>
 </body>
 </html>
