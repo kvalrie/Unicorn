@@ -1,6 +1,5 @@
  <div id="container">
 
-
         <div id="banner">
 
                 <h2>CHOISIR LE MEILLEUR PROFESSIONNEL POUR VOTRE PROJET IMMOBILIER</h2>
