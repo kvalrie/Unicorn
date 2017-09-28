@@ -12,3 +12,7 @@
 */
 
 Route::get('/','avisController@index' );
+
+Route::get('/resultat','avisController@show_resultats');
+
+Route::get('/resultat/{agence}', 'avisController@show_agence');
