@@ -4,7 +4,7 @@
        </div>
        <div class="nav-icon">
           <ul>
-              <li> <a href="#">Trouver une agence immobilière</a></li>
+              <li> <a href="{{ url('/') }}">Trouver une agence immobilière</a></li>
               <li> <a href="#">Donner son avis sur une agence</a></li>
               <li id="btn">
               <button href="#">Fr</button>

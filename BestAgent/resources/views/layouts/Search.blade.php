@@ -8,9 +8,9 @@
                         <div class="input-group">
                           <input type="text" class="form-control SearchBar" placeholder="Search for...">
                           <span class="input-group-btn">
-                            <button class="btn btn-defaul SearchButton" type="button">
+                            <a class="btn btn-defaul SearchButton" href="{{ url('/resultat') }}">
                                 <span class=" glyphicon glyphicon-search SearchIcon" ><i class="fa fa-search" aria-hidden="true"></i></span>
-                            </button>
+                            </a>
                           </span>
                         </div><!-- /input-group -->
                     </div><!-- /.col-lg-6 -->
