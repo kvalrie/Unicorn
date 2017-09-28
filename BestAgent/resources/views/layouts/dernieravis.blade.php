@@ -16,11 +16,9 @@
 						</div>
 					</div>
 					<div class="col-sm-4">
-						<div class="immo"><a href="">17 bien sur immoweb</a>
+						<div class="immo"><a href="">17 bien en vente sur immoweb</a>
 						</div>
-						<div class="contact">
-						<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal">CONTACTEZ-NOUS</button>
-						</div>
+
 					</div>
 
 			</div>
