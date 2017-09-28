@@ -83,7 +83,7 @@ header {
     background: linear-gradient(
       rgba(0, 0, 0, 0.5),
       rgba(0, 0, 0, 0.5)
-    ), url(http://localhost:8888/Unicorn/BestAgent/resources/assets/home_page.jpg) no-repeat center center fixed;
+    ), url(home_page.jpg) no-repeat center center fixed;
     background-size: cover;
     background-position: 0px 60%;
     margin-bottom: 20px;

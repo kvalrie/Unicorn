@@ -1,0 +1,63 @@
+.username p{
+	font-family: 'Oswald', sans-serif;
+	font-size: 16px;
+}
+.content{
+	max-width: 1200px;
+	margin: auto;
+	margin-top: 100px;
+
+}
+.logo_agence{
+	max-width: 150px;
+	margin-right: 0px;
+}
+.info_agence p{
+	margin: 0px;
+}
+.content_avis{
+	padding: 20px;
+}
+.titre_comment p , .info_agence span{
+	font-size: 20px;
+}
+.user_info{
+	        text-transform: uppercase;
+	        text-align: center;
+	        padding: 0 15px 0 15px;
+}
+.user_info div{
+	margin-bottom: 10px;
+}
+
+.user_comment{
+	padding: 0 15px 0 35px;
+	border-left: 1px solid #B6C135;
+}
+.comment_comment p {
+	font-size: 15px;
+}
+
+.detail{
+	text-align: right;
+}
+.detail button{
+	background-color: #CCCCCC;
+	color: #666666;
+	margin-right: 5px;
+}
+.ref span{
+	line-height: 30px;
+	color: #999999;
+	font-size: 16px;
+}
+.ref span:first-child{
+	margin-right: 20%;
+}
+.footer_avis{
+	    padding-left: 5%;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    background-color: #F2F2F2;
+
+}
