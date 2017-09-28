@@ -1,5 +1,5 @@
  <div id="container">
-      @include('layouts.nav')
+
 
         <div id="banner">
 
