@@ -14,11 +14,13 @@
 	<title>Best Agent</title>
 </head>
 <body>
-@include('layouts.nav')
+ <header  ">
+	@include('layouts.nav')
+ </header>
 
-@yield('content')
+ @yield('content')
 
-@include('layouts.footer')
+ @include('layouts.footer')
 
 </body>
 </html>
