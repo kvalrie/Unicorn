@@ -9,10 +9,10 @@
 
         <div class="row">
             <div class="col-md-8">
-                <img class="center-block" src="http://www.lesavisimmo.com/Content/img/opinion-system.png" title="Opinion System" alt="Opinion System" />
+                <img class="img-responsive center-block" src="http://www.lesavisimmo.com/Content/img/opinion-system.png" title="Opinion System" alt="Opinion System" />
             </div>      
             <div class="col-md-4">
-                <img class="center-block" src="http://www.lesavisimmo.com/Content/img/afaq-iso.png" title="AFAQ" alt="AFAQ" />
+                <img class=" img-responsive center-block" src="http://www.lesavisimmo.com/Content/img/afaq-iso.png" title="AFAQ" alt="AFAQ" />
             </div>
         </div>
     </div>

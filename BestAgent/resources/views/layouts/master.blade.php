@@ -7,6 +7,7 @@
 	<link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet">
 	<link  href="{{asset('css/css_header.css')}}" rel="stylesheet">
 	<link  href="{{asset('css/css_avis.css')}}" rel="stylesheet">
+	<link  href="{{asset('css/master.css')}}" rel="stylesheet">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta charset="UTF-8">
 
@@ -14,13 +15,14 @@
 	<title>Best Agent</title>
 </head>
 <body>
- <header  ">
+ <header>
 	@include('layouts.nav')
  </header>
+ <div class="main_container">
 
  @yield('content')
 
  @include('layouts.footer')
-
+</div>
 </body>
 </html>
