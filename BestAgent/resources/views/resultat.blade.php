@@ -2,7 +2,7 @@
 
 @section('content')
 {{-- include le layout qui affiche les fiches agences basic avec un for each et les conditions de la recherche --}}
-@include('layouts.dernieravis')
+@include('layouts.avis')
 @include('layouts.avis')
 @include('layouts.avis')
 

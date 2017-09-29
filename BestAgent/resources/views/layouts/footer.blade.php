@@ -7,7 +7,7 @@
 
             <div class="col-md-4">
                 <img class="img-responsive center-block" src="http://www.lesavisimmo.com/Content/img/opinion-system.png" title="Opinion System" alt="Opinion System" />
-            </div>      
+            </div>
             <div class="col-md-3">
                 <img class=" img-responsive center-block" src="http://www.lesavisimmo.com/Content/img/afaq-iso.png" title="AFAQ" alt="AFAQ" />
             </div>
@@ -18,7 +18,7 @@
         <h2 class="text-info text-uppercase mbs">nos partenaires</h2>
         <ul>
             <li><a href="http://www.opinionsystem.fr" target="_blank" title=">www.OpinionSystem.fr">www.OpinionSystem.fr</a></li>
-            <li><a href="http://www.opinionsystem.fr" target="_blank" title=">http://www.immoweb.be">www.immoweb.be</a></li>
+            <li><a href="http://www.immoweb.be" target="_blank" title=">http://www.immoweb.be">www.immoweb.be</a></li>
         </ul>
         </div>
         </div>

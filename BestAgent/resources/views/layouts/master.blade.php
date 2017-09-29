@@ -8,6 +8,9 @@
 	<link  href="{{asset('css/master.css')}}" rel="stylesheet">
 	<link  href="{{asset('css/css_header.css')}}" rel="stylesheet">
 	<link  href="{{asset('css/css_avis.css')}}" rel="stylesheet">
+	<script src="https://use.fontawesome.com/0043df5d7b.js"></script>
+
+	<link rel="stylesheet" href="{{asset('font-awesome.min.css')}}">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta charset="UTF-8">

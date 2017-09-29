@@ -2,6 +2,6 @@
 {{-- include la fiche agence complete --}}
 @section('content')
 
-<h1>{{$agence}}</h1>
+@include('layouts.fiche_agence_complete')
 
 @endsection
