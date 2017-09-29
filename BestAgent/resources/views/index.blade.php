@@ -3,11 +3,11 @@
 
 @include('layouts.search')
 
-@include('layouts.dernieravis')
-@include('layouts.dernieravis')
-@include('layouts.dernieravis')
-@include('layouts.dernieravis')
-@include('layouts.dernieravis')
+@include('layouts.fiche_agence_complete')
+@include('layouts.fiche_agence_complete')
+@include('layouts.fiche_agence_complete')
+@include('layouts.fiche_agence_complete')
+@include('layouts.fiche_agence_complete')
 
 @endsection
 
