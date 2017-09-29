@@ -3,6 +3,11 @@
 
 @include('layouts.search')
 
+@include('layouts.dernieravis')
+@include('layouts.dernieravis')
+@include('layouts.dernieravis')
+@include('layouts.dernieravis')
+@include('layouts.dernieravis')
 
 @endsection
 

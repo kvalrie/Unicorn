@@ -22,7 +22,7 @@ header {
     text-align: center;
     height: 75px;
     max-height: 200px;
-    background-color: rgba(211,211,211, 0.3);
+    background-color: white;
     width: 100%;
     z-index: 10;
     position: fixed;
@@ -84,7 +84,7 @@ header {
     background: linear-gradient(
       rgba(0, 0, 0, 0.5),
       rgba(0, 0, 0, 0.5)
-    ), url(http://localhost:8888/Unicorn/BestAgent/resources/assets/home_page.jpg) no-repeat center center fixed;
+    ), url(../image/home_page.jpg) no-repeat center center fixed;
     background-size: cover;
     background-position: 0px 60%;
     margin-bottom: 20px;
